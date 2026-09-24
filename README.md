@@ -1,88 +1,101 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0a1f,40:5a189a,75:9d4edd,100:f107a3&height=230&section=header&text=Pedro%20Henrique&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=38&stroke=e100ff&strokeWidth=1&desc=Dev%20em%20forma%C3%A7%C3%A3o%20%E2%80%A2%20Java%20%E2%80%A2%20JavaScript%20%E2%80%A2%20Web&descAlignY=60&descSize=17&descColor=e0d4ff" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0b0620,35:3b1f7a,70:8b5cf6,100:e83cc8&height=250&section=header&text=Pedro%20Henrique&font=Josefin%20Sans&fontSize=64&fontColor=ffffff&fontAlignY=40&stroke=e83cc8&strokeWidth=2&desc=%E2%9C%A6%20Engenharia%20de%20Software%20%E2%9C%A6%20Java%20%E2%9C%A6%20JavaScript%20%E2%9C%A6%20Web&descAlignY=60&descSize=17&descColor=f3e8ff" width="100%"/>
 
 <div align="center">
 
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=E83CC8&center=true&vCenter=true&width=620&height=50&lines=Transformando+caf%C3%A9+em+c%C3%B3digo+%E2%98%95;Aprendendo+C%23+e+Node.js+%F0%9F%9A%80;Um+commit+de+cada+vez+%F0%9F%92%9C" alt="Typing SVG" />
+
+<br/>
+
+<img src="https://img.shields.io/badge/IDADE-19%20ANOS-8b5cf6?style=for-the-badge&labelColor=0b0620" />
+<img src="https://img.shields.io/badge/UCB-ENG.%20DE%20SOFTWARE-e83cc8?style=for-the-badge&labelColor=0b0620" />
+<img src="https://komarev.com/ghpvc/?username=pedrohenriquesb4002-hub&color=8b5cf6&style=for-the-badge&label=VISITAS&labelColor=0b0620" />
 
 </div>
 
 <br/>
 
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:3b1f7a,100:e83cc8&height=46&section=header&text=%E2%9C%A6%20%20SOBRE%20MIM%20%20%E2%9C%A6&fontSize=20&fontColor=ffffff&fontAlign=50&fontAlignY=55" width="100%"/>
+
 <table>
 <tr>
-<td valign="top" width="60%">
+<td align="center" valign="middle" width="35%">
 
-## 👋 Sobre mim
-
-Me chamo **Pedro Henrique da Silva Borges**, tenho **19 anos** e curso **Engenharia de Software** na **Universidade Católica de Brasília (UCB)**.
-
-- 💻 Gosto de codar e construir coisas do zero
-- 🎓 Cursando Eng. de Software na UCB
-- 🌱 Aprendendo agora: **C#** e **Node.js**
-- 💜 Sempre em busca de evoluir um pouco a cada dia
-- 📫 Contato: [LinkedIn]([https://linkedin.com/in/SEU-USER](https://www.linkedin.com/in/pedro-henrique-01aa3b3a3/)) · pedrohenriquesb4002@gmail.com
+<img src="https://raw.githubusercontent.com/pedrohenriquesb4002-hub/pedrohenriquesb4002-hub/main/perfil.png" width="260" />
 
 </td>
-<td valign="middle" align="center" width="40%">
+<td valign="middle" width="65%">
 
-<!--
-  Quer um GIF/imagem aqui, igual no print? Apague este comentário e use:
-  <img src="LINK-DO-SEU-GIF-OU-IMAGEM" width="260" />
--->
-<img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:5a189a,100:f107a3&height=200&section=header&text=%3C%2Fcode%3E&fontSize=60&fontColor=ffffff&animation=blinking" width="260" />
+<img src="https://img.shields.io/badge/NOME-Pedro%20Henrique%20da%20Silva%20Borges-8b5cf6?style=for-the-badge&labelColor=0b0620" /><br/>
+<img src="https://img.shields.io/badge/IDADE-19%20anos-e83cc8?style=for-the-badge&labelColor=0b0620" /><br/>
+<img src="https://img.shields.io/badge/CURSO-Engenharia%20de%20Software-a855f7?style=for-the-badge&labelColor=0b0620" /><br/>
+<img src="https://img.shields.io/badge/FACULDADE-Universidade%20Cat%C3%B3lica%20de%20Bras%C3%ADlia-e83cc8?style=for-the-badge&labelColor=0b0620" /><br/>
+<img src="https://img.shields.io/badge/DOMINO-Java%20%C2%B7%20JavaScript%20%C2%B7%20HTML%20%C2%B7%20CSS-8b5cf6?style=for-the-badge&labelColor=0b0620" /><br/>
+<img src="https://img.shields.io/badge/APRENDENDO-C%23%20%C2%B7%20Node.js-e83cc8?style=for-the-badge&labelColor=0b0620" /><br/>
+<img src="https://img.shields.io/badge/FOCO-Codar%2C%20criar%20e%20evoluir%20todo%20dia-a855f7?style=for-the-badge&labelColor=0b0620" /><br/>
 
 </td>
 </tr>
 </table>
 
-## ✨ Tools I know
-
-<p>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
-</p>
-
-## 🌱 Aprendendo agora
-
-<p>
-  <img src="https://img.shields.io/badge/C%23-9d4edd?style=flat-square&logo=dotnet&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
-</p>
-
----
-
-## 📊 Meu painel
-
 <div align="center">
 
-<img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SEU-USER&theme=radical" />
-<img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SEU-USER&theme=radical" />
-
-<img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=SEU-USER&theme=radical" />
-<img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=SEU-USER&theme=radical" />
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=SEU-USER&theme=radical&utcOffset=-3" />
+<a href="https://www.linkedin.com/in/pedro-henrique-01aa3b3a3/"><img src="https://img.shields.io/badge/LinkedIn-8b5cf6?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0b0620" /></a>
+<a href="mailto:pedrohenriquesb4002@gmail.com"><img src="https://img.shields.io/badge/Gmail-e83cc8?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0b0620" /></a>
+<a href="https://github.com/pedrohenriquesb4002-hub/"><img src="https://img.shields.io/badge/GitHub-a855f7?style=for-the-badge&logo=github&logoColor=white&labelColor=0b0620" /></a>
 
 </div>
 
-## 🔥 Most used languages
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:3b1f7a,100:e83cc8&height=46&section=header&text=%E2%9C%A6%20%20ARSENAL%20%20%E2%9C%A6&fontSize=20&fontColor=ffffff&fontAlign=50&fontAlignY=55" width="100%"/>
 
 <div align="center">
 
-<img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USER&layout=donut&hide_border=false&border_color=3c1a6e&border_radius=10&bg_color=140c26&title_color=e100ff&text_color=e0d4ff" />
-<img height="175" src="https://github-readme-stats.vercel.app/api?username=SEU-USER&show_icons=true&hide_border=false&border_color=3c1a6e&border_radius=10&bg_color=140c26&title_color=e100ff&icon_color=c77dff&text_color=e0d4ff&ring_color=f107a3" />
+**Já domino**
 
-<br/>
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 
-<img src="https://streak-stats.demolab.com?user=SEU-USER&background=140c26&border=3c1a6e&ring=f107a3&fire=e100ff&currStreakLabel=e100ff&sideLabels=e0d4ff&currStreakNum=ffffff&sideNums=ffffff&dates=9d8fc0&stroke=3c1a6e" />
+**Em evolução**
 
-<br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=SEU-USER&bg_color=0f0a1f&color=e100ff&line=9d4edd&point=ffffff&area=true&area_color=7b2ff7&hide_border=true" width="95%" />
+<img src="https://img.shields.io/badge/C%23-9d4edd?style=for-the-badge&logo=dotnet&logoColor=white" />
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:f107a3,50:9d4edd,100:0f0a1f&height=150&section=footer&text=Valeu%20por%20passar%20por%20aqui!&fontSize=22&fontColor=ffffff&animation=fadeIn&fontAlignY=68" width="100%"/>
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:3b1f7a,100:e83cc8&height=46&section=header&text=%E2%9C%A6%20%20MEUS%20PROJETOS%20%20%E2%9C%A6&fontSize=20&fontColor=ffffff&fontAlign=50&fontAlignY=55" width="100%"/>
+
+<div align="center">
+
+<a href="https://github.com/pedrohenriquesb4002-hub/FINTREK-GEST-O"><img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=pedrohenriquesb4002-hub&repo=FINTREK-GEST-O&bg_color=130a2e&title_color=e83cc8&text_color=e9defc&icon_color=8b5cf6&border_color=3b1f7a&border_radius=12" /></a>
+<a href="https://github.com/pedrohenriquesb4002-hub/SITE-IMPOSTO-IRPF"><img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=pedrohenriquesb4002-hub&repo=SITE-IMPOSTO-IRPF&bg_color=130a2e&title_color=e83cc8&text_color=e9defc&icon_color=8b5cf6&border_color=3b1f7a&border_radius=12" /></a>
+
+<a href="https://github.com/pedrohenriquesb4002-hub/controle-irpf-web"><img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=pedrohenriquesb4002-hub&repo=controle-irpf-web&bg_color=130a2e&title_color=e83cc8&text_color=e9defc&icon_color=8b5cf6&border_color=3b1f7a&border_radius=12" /></a>
+<a href="https://github.com/pedrohenriquesb4002-hub/SITE-VITOR-ESTUDOS"><img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=pedrohenriquesb4002-hub&repo=SITE-VITOR-ESTUDOS&bg_color=130a2e&title_color=e83cc8&text_color=e9defc&icon_color=8b5cf6&border_color=3b1f7a&border_radius=12" /></a>
+
+</div>
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:3b1f7a,100:e83cc8&height=46&section=header&text=%E2%9C%A6%20%20ESTAT%C3%8DSTICAS%20%20%E2%9C%A6&fontSize=20&fontColor=ffffff&fontAlign=50&fontAlignY=55" width="100%"/>
+
+<div align="center">
+
+<img height="175" src="https://github-readme-stats.vercel.app/api?username=pedrohenriquesb4002-hub&show_icons=true&bg_color=130a2e&title_color=e83cc8&icon_color=8b5cf6&text_color=e9defc&ring_color=e83cc8&border_color=3b1f7a&border_radius=12" />
+<img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrohenriquesb4002-hub&layout=donut&bg_color=130a2e&title_color=e83cc8&text_color=e9defc&border_color=3b1f7a&border_radius=12" />
+
+<br/>
+
+<img src="https://streak-stats.demolab.com?user=pedrohenriquesb4002-hub&background=130a2e&border=3b1f7a&ring=e83cc8&fire=ffb3e6&currStreakLabel=e83cc8&sideLabels=e9defc&currStreakNum=ffffff&sideNums=ffffff&dates=a78bfa&stroke=3b1f7a&borderRadius=12" />
+
+<br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=pedrohenriquesb4002-hub&bg_color=0b0620&color=e83cc8&line=8b5cf6&point=ffffff&area=true&area_color=8b5cf6&hide_border=true" width="95%" />
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:e83cc8,50:8b5cf6,100:0b0620&height=140&section=footer&text=Valeu%20por%20passar%20por%20aqui!&fontSize=22&fontColor=ffffff&animation=fadeIn&fontAlignY=68" width="100%"/>
