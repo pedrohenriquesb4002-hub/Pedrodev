@@ -16,7 +16,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:3b1f7a,100:d948bb&height=46&section=header&text=%E2%9C%A6%20%20SOBRE%20MIM%20%20%E2%9C%A6&fontSize=20&fontColor=ffffff&fontAlign=50&fontAlignY=55" width="100%"/>
 
-<img align="right" src="https://github.com/pedrohenriquesb4002-hub/Pedrodev/blob/main/perfil%20%281%29.png?raw=true" width="340" />
+<img align="right" src="https://raw.githubusercontent.com/pedrohenriquesb4002-hub/pedrohenriquesb4002-hub/main/perfil%20%281%29.png" width="340" />
 
 <img height="30" src="https://img.shields.io/badge/NOME-Pedro%20Henrique%20da%20Silva%20Borges-7c65c6?style=for-the-badge&labelColor=1a1233" /><br/><br/>
 <img height="30" src="https://img.shields.io/badge/IDADE-19%20anos-b05aa6?style=for-the-badge&labelColor=1a1233" /><br/><br/>
@@ -62,11 +62,32 @@
 
 <div align="center">
 
-<a href="https://github.com/pedrohenriquesb4002-hub/FINTREK-GEST-O"><img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=pedrohenriquesb4002-hub&repo=FINTREK-GEST-O&bg_color=130a2e&title_color=d948bb&text_color=e9defc&icon_color=8662e1&border_color=3b1f7a&border_radius=12" /></a>
-<a href="https://github.com/pedrohenriquesb4002-hub/SITE-IMPOSTO-IRPF"><img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=pedrohenriquesb4002-hub&repo=SITE-IMPOSTO-IRPF&bg_color=130a2e&title_color=d948bb&text_color=e9defc&icon_color=8662e1&border_color=3b1f7a&border_radius=12" /></a>
+<a href="https://github.com/pedrohenriquesb4002-hub/controle-irpf-web"><img src="https://img.shields.io/badge/PROJETO-controle--irpf--web-7c65c6?style=for-the-badge&labelColor=1a1233&logo=github&logoColor=white" /></a>
+<img src="https://img.shields.io/badge/TypeScript-3178c6?style=for-the-badge&labelColor=1a1233&logo=typescript&logoColor=white" />
+<br/>
+<sub>Sistema web para gerenciar declarações de IRPF, com status de pagamento e cálculo automático de comissões por colaborador.</sub><br/>
+<sub><a href="https://github.com/pedrohenriquesb4002-hub/controle-irpf-web">Ver no GitHub →</a></sub>
 
-<a href="https://github.com/pedrohenriquesb4002-hub/controle-irpf-web"><img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=pedrohenriquesb4002-hub&repo=controle-irpf-web&bg_color=130a2e&title_color=d948bb&text_color=e9defc&icon_color=8662e1&border_color=3b1f7a&border_radius=12" /></a>
-<a href="https://github.com/pedrohenriquesb4002-hub/SITE-VITOR-ESTUDOS"><img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=pedrohenriquesb4002-hub&repo=SITE-VITOR-ESTUDOS&bg_color=130a2e&title_color=d948bb&text_color=e9defc&icon_color=8662e1&border_color=3b1f7a&border_radius=12" /></a>
+<br/>
+
+<a href="https://github.com/pedrohenriquesb4002-hub/FINTREK-GEST-O"><img src="https://img.shields.io/badge/PROJETO-FINTREK--GEST--O-7c65c6?style=for-the-badge&labelColor=1a1233&logo=github&logoColor=white" /></a>
+<img src="https://img.shields.io/badge/HTML-e34f26?style=for-the-badge&labelColor=1a1233&logo=html5&logoColor=white" />
+<br/>
+<sub><a href="https://github.com/pedrohenriquesb4002-hub/FINTREK-GEST-O">Ver no GitHub →</a></sub>
+
+<br/>
+
+<a href="https://github.com/pedrohenriquesb4002-hub/SITE-IMPOSTO-IRPF"><img src="https://img.shields.io/badge/PROJETO-SITE--IMPOSTO--IRPF-7c65c6?style=for-the-badge&labelColor=1a1233&logo=github&logoColor=white" /></a>
+<img src="https://img.shields.io/badge/TypeScript-3178c6?style=for-the-badge&labelColor=1a1233&logo=typescript&logoColor=white" />
+<br/>
+<sub><a href="https://github.com/pedrohenriquesb4002-hub/SITE-IMPOSTO-IRPF">Ver no GitHub →</a></sub>
+
+<br/>
+
+<a href="https://github.com/pedrohenriquesb4002-hub/SITE-VITOR-ESTUDOS"><img src="https://img.shields.io/badge/PROJETO-SITE--VITOR--ESTUDOS-7c65c6?style=for-the-badge&labelColor=1a1233&logo=github&logoColor=white" /></a>
+<img src="https://img.shields.io/badge/TypeScript-3178c6?style=for-the-badge&labelColor=1a1233&logo=typescript&logoColor=white" />
+<br/>
+<sub><a href="https://github.com/pedrohenriquesb4002-hub/SITE-VITOR-ESTUDOS">Ver no GitHub →</a></sub>
 
 </div>
 
@@ -76,16 +97,11 @@
 
 <div align="center">
 
-<img height="175" src="https://github-readme-stats.vercel.app/api?username=pedrohenriquesb4002-hub&show_icons=true&bg_color=130a2e&title_color=d948bb&icon_color=8662e1&text_color=e9defc&ring_color=d948bb&border_color=3b1f7a&border_radius=12" />
-<img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrohenriquesb4002-hub&layout=donut&bg_color=130a2e&title_color=d948bb&text_color=e9defc&border_color=3b1f7a&border_radius=12" />
+<img src="https://img.shields.io/github/followers/pedrohenriquesb4002-hub?style=for-the-badge&label=SEGUIDORES&color=7c65c6&labelColor=1a1233&logo=github&logoColor=white" />
 
-<br/>
+<br/><br/>
 
 <img src="https://streak-stats.demolab.com?user=pedrohenriquesb4002-hub&background=130a2e&border=3b1f7a&ring=d948bb&fire=ffb3e6&currStreakLabel=d948bb&sideLabels=e9defc&currStreakNum=ffffff&sideNums=ffffff&dates=a78bfa&stroke=3b1f7a&borderRadius=12" />
-
-<br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=pedrohenriquesb4002-hub&bg_color=0b0620&color=d948bb&line=8662e1&point=ffffff&area=true&area_color=8662e1&hide_border=true" width="95%" />
 
 </div>
 
