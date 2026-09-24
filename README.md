@@ -16,7 +16,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:3b1f7a,100:d948bb&height=46&section=header&text=%E2%9C%A6%20%20SOBRE%20MIM%20%20%E2%9C%A6&fontSize=20&fontColor=ffffff&fontAlign=50&fontAlignY=55" width="100%"/>
 
-<img align="right" src="https://raw.githubusercontent.com/pedrohenriquesb4002-hub/pedrohenriquesb4002-hub/main/perfil.png" width="340" />
+<img align="right" src="https://github.com/pedrohenriquesb4002-hub/Pedrodev/blob/main/perfil%20%281%29.png?raw=true" width="340" />
 
 <img height="30" src="https://img.shields.io/badge/NOME-Pedro%20Henrique%20da%20Silva%20Borges-7c65c6?style=for-the-badge&labelColor=1a1233" /><br/><br/>
 <img height="30" src="https://img.shields.io/badge/IDADE-19%20anos-b05aa6?style=for-the-badge&labelColor=1a1233" /><br/><br/>
