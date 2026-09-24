@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0b0620,35:3b1f7a,70:8b5cf6,100:e83cc8&height=250&section=header&text=Pedro%20Henrique&font=Josefin%20Sans&fontSize=64&fontColor=ffffff&fontAlignY=40&stroke=e83cc8&strokeWidth=2&desc=%E2%9C%A6%20Engenharia%20de%20Software%20%E2%9C%A6%20Java%20%E2%9C%A6%20JavaScript%20%E2%9C%A6%20Web&descAlignY=60&descSize=17&descColor=f3e8ff" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0b0620,35:3b1f7a,70:7f6ac0,100:c25aae&height=250&section=header&text=Pedro%20Henrique&font=Josefin%20Sans&fontSize=64&fontColor=ffffff&fontAlignY=40&stroke=c25aae&strokeWidth=2&desc=%E2%9C%A6%20Engenharia%20de%20Software%20%E2%9C%A6%20Java%20%E2%9C%A6%20JavaScript%20%E2%9C%A6%20Web&descAlignY=60&descSize=17&descColor=f3e8ff" width="100%"/>
 
 <div align="center">
 
@@ -6,32 +6,32 @@
 
 <br/>
 
-<img src="https://img.shields.io/badge/IDADE-19%20ANOS-8b5cf6?style=for-the-badge&labelColor=0b0620" />
-<img src="https://img.shields.io/badge/UCB-ENG.%20DE%20SOFTWARE-e83cc8?style=for-the-badge&labelColor=0b0620" />
-<img src="https://komarev.com/ghpvc/?username=pedrohenriquesb4002-hub&color=8b5cf6&style=for-the-badge&label=VISITAS&labelColor=0b0620" />
+<img src="https://img.shields.io/badge/IDADE-19%20ANOS-7f6ac0?style=for-the-badge&labelColor=0b0620" />
+<img src="https://img.shields.io/badge/UCB-ENG.%20DE%20SOFTWARE-c25aae?style=for-the-badge&labelColor=0b0620" />
+<img src="https://komarev.com/ghpvc/?username=pedrohenriquesb4002-hub&color=7f6ac0&style=for-the-badge&label=VISITAS&labelColor=0b0620" />
 
 </div>
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:3b1f7a,100:e83cc8&height=46&section=header&text=%E2%9C%A6%20%20SOBRE%20MIM%20%20%E2%9C%A6&fontSize=20&fontColor=ffffff&fontAlign=50&fontAlignY=55" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:3b1f7a,100:c25aae&height=46&section=header&text=%E2%9C%A6%20%20SOBRE%20MIM%20%20%E2%9C%A6&fontSize=20&fontColor=ffffff&fontAlign=50&fontAlignY=55" width="100%"/>
 
 <table>
 <tr>
-<td align="center" valign="middle" width="35%">
+<td valign="middle" width="58%">
 
-<img src="https://raw.githubusercontent.com/pedrohenriquesb4002-hub/pedrohenriquesb4002-hub/main/perfil.png" width="260" />
+<img height="30" src="https://img.shields.io/badge/NOME-Pedro%20Henrique%20da%20Silva%20Borges-6b5aa8?style=for-the-badge&labelColor=1a1233" /><br/><br/>
+<img height="30" src="https://img.shields.io/badge/IDADE-19%20anos-8a5f9e?style=for-the-badge&labelColor=1a1233" /><br/><br/>
+<img height="30" src="https://img.shields.io/badge/CURSO-Engenharia%20de%20Software-6b5aa8?style=for-the-badge&labelColor=1a1233" /><br/><br/>
+<img height="30" src="https://img.shields.io/badge/FACULDADE-Universidade%20Cat%C3%B3lica%20de%20Bras%C3%ADlia-8a5f9e?style=for-the-badge&labelColor=1a1233" /><br/><br/>
+<img height="30" src="https://img.shields.io/badge/DOMINO-Java%20%C2%B7%20JavaScript%20%C2%B7%20HTML%20%C2%B7%20CSS-6b5aa8?style=for-the-badge&labelColor=1a1233" /><br/><br/>
+<img height="30" src="https://img.shields.io/badge/APRENDENDO-C%23%20%C2%B7%20Node.js-8a5f9e?style=for-the-badge&labelColor=1a1233" /><br/><br/>
+<img height="30" src="https://img.shields.io/badge/FOCO-Codar%2C%20criar%20e%20evoluir%20todo%20dia-6b5aa8?style=for-the-badge&labelColor=1a1233" /><br/><br/>
 
 </td>
-<td valign="middle" width="65%">
+<td align="center" valign="middle" width="42%">
 
-<img src="https://img.shields.io/badge/NOME-Pedro%20Henrique%20da%20Silva%20Borges-8b5cf6?style=for-the-badge&labelColor=0b0620" /><br/>
-<img src="https://img.shields.io/badge/IDADE-19%20anos-e83cc8?style=for-the-badge&labelColor=0b0620" /><br/>
-<img src="https://img.shields.io/badge/CURSO-Engenharia%20de%20Software-a855f7?style=for-the-badge&labelColor=0b0620" /><br/>
-<img src="https://img.shields.io/badge/FACULDADE-Universidade%20Cat%C3%B3lica%20de%20Bras%C3%ADlia-e83cc8?style=for-the-badge&labelColor=0b0620" /><br/>
-<img src="https://img.shields.io/badge/DOMINO-Java%20%C2%B7%20JavaScript%20%C2%B7%20HTML%20%C2%B7%20CSS-8b5cf6?style=for-the-badge&labelColor=0b0620" /><br/>
-<img src="https://img.shields.io/badge/APRENDENDO-C%23%20%C2%B7%20Node.js-e83cc8?style=for-the-badge&labelColor=0b0620" /><br/>
-<img src="https://img.shields.io/badge/FOCO-Codar%2C%20criar%20e%20evoluir%20todo%20dia-a855f7?style=for-the-badge&labelColor=0b0620" /><br/>
+<img src="https://raw.githubusercontent.com/pedrohenriquesb4002-hub/pedrohenriquesb4002-hub/main/perfil.png" width="100%" />
 
 </td>
 </tr>
@@ -39,15 +39,15 @@
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/pedro-henrique-01aa3b3a3/"><img src="https://img.shields.io/badge/LinkedIn-8b5cf6?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0b0620" /></a>
-<a href="mailto:pedrohenriquesb4002@gmail.com"><img src="https://img.shields.io/badge/Gmail-e83cc8?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0b0620" /></a>
-<a href="https://github.com/pedrohenriquesb4002-hub/"><img src="https://img.shields.io/badge/GitHub-a855f7?style=for-the-badge&logo=github&logoColor=white&labelColor=0b0620" /></a>
+<a href="https://www.linkedin.com/in/pedro-henrique-01aa3b3a3/"><img src="https://img.shields.io/badge/LinkedIn-7f6ac0?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0b0620" /></a>
+<a href="mailto:pedrohenriquesb4002@gmail.com"><img src="https://img.shields.io/badge/Gmail-c25aae?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0b0620" /></a>
+<a href="https://github.com/pedrohenriquesb4002-hub/"><img src="https://img.shields.io/badge/GitHub-8f74c6?style=for-the-badge&logo=github&logoColor=white&labelColor=0b0620" /></a>
 
 </div>
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:3b1f7a,100:e83cc8&height=46&section=header&text=%E2%9C%A6%20%20ARSENAL%20%20%E2%9C%A6&fontSize=20&fontColor=ffffff&fontAlign=50&fontAlignY=55" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:3b1f7a,100:c25aae&height=46&section=header&text=%E2%9C%A6%20%20ARSENAL%20%20%E2%9C%A6&fontSize=20&fontColor=ffffff&fontAlign=50&fontAlignY=55" width="100%"/>
 
 <div align="center">
 
@@ -60,42 +60,42 @@
 
 **Em evolução**
 
-<img src="https://img.shields.io/badge/C%23-9d4edd?style=for-the-badge&logo=dotnet&logoColor=white" />
+<img src="https://img.shields.io/badge/C%23-8a63c4?style=for-the-badge&logo=dotnet&logoColor=white" />
 <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
 
 </div>
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:3b1f7a,100:e83cc8&height=46&section=header&text=%E2%9C%A6%20%20MEUS%20PROJETOS%20%20%E2%9C%A6&fontSize=20&fontColor=ffffff&fontAlign=50&fontAlignY=55" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:3b1f7a,100:c25aae&height=46&section=header&text=%E2%9C%A6%20%20MEUS%20PROJETOS%20%20%E2%9C%A6&fontSize=20&fontColor=ffffff&fontAlign=50&fontAlignY=55" width="100%"/>
 
 <div align="center">
 
-<a href="https://github.com/pedrohenriquesb4002-hub/FINTREK-GEST-O"><img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=pedrohenriquesb4002-hub&repo=FINTREK-GEST-O&bg_color=130a2e&title_color=e83cc8&text_color=e9defc&icon_color=8b5cf6&border_color=3b1f7a&border_radius=12" /></a>
-<a href="https://github.com/pedrohenriquesb4002-hub/SITE-IMPOSTO-IRPF"><img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=pedrohenriquesb4002-hub&repo=SITE-IMPOSTO-IRPF&bg_color=130a2e&title_color=e83cc8&text_color=e9defc&icon_color=8b5cf6&border_color=3b1f7a&border_radius=12" /></a>
+<a href="https://github.com/pedrohenriquesb4002-hub/FINTREK-GEST-O"><img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=pedrohenriquesb4002-hub&repo=FINTREK-GEST-O&bg_color=130a2e&title_color=c25aae&text_color=e9defc&icon_color=7f6ac0&border_color=3b1f7a&border_radius=12" /></a>
+<a href="https://github.com/pedrohenriquesb4002-hub/SITE-IMPOSTO-IRPF"><img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=pedrohenriquesb4002-hub&repo=SITE-IMPOSTO-IRPF&bg_color=130a2e&title_color=c25aae&text_color=e9defc&icon_color=7f6ac0&border_color=3b1f7a&border_radius=12" /></a>
 
-<a href="https://github.com/pedrohenriquesb4002-hub/controle-irpf-web"><img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=pedrohenriquesb4002-hub&repo=controle-irpf-web&bg_color=130a2e&title_color=e83cc8&text_color=e9defc&icon_color=8b5cf6&border_color=3b1f7a&border_radius=12" /></a>
-<a href="https://github.com/pedrohenriquesb4002-hub/SITE-VITOR-ESTUDOS"><img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=pedrohenriquesb4002-hub&repo=SITE-VITOR-ESTUDOS&bg_color=130a2e&title_color=e83cc8&text_color=e9defc&icon_color=8b5cf6&border_color=3b1f7a&border_radius=12" /></a>
+<a href="https://github.com/pedrohenriquesb4002-hub/controle-irpf-web"><img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=pedrohenriquesb4002-hub&repo=controle-irpf-web&bg_color=130a2e&title_color=c25aae&text_color=e9defc&icon_color=7f6ac0&border_color=3b1f7a&border_radius=12" /></a>
+<a href="https://github.com/pedrohenriquesb4002-hub/SITE-VITOR-ESTUDOS"><img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=pedrohenriquesb4002-hub&repo=SITE-VITOR-ESTUDOS&bg_color=130a2e&title_color=c25aae&text_color=e9defc&icon_color=7f6ac0&border_color=3b1f7a&border_radius=12" /></a>
 
 </div>
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:3b1f7a,100:e83cc8&height=46&section=header&text=%E2%9C%A6%20%20ESTAT%C3%8DSTICAS%20%20%E2%9C%A6&fontSize=20&fontColor=ffffff&fontAlign=50&fontAlignY=55" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:3b1f7a,100:c25aae&height=46&section=header&text=%E2%9C%A6%20%20ESTAT%C3%8DSTICAS%20%20%E2%9C%A6&fontSize=20&fontColor=ffffff&fontAlign=50&fontAlignY=55" width="100%"/>
 
 <div align="center">
 
-<img height="175" src="https://github-readme-stats.vercel.app/api?username=pedrohenriquesb4002-hub&show_icons=true&bg_color=130a2e&title_color=e83cc8&icon_color=8b5cf6&text_color=e9defc&ring_color=e83cc8&border_color=3b1f7a&border_radius=12" />
-<img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrohenriquesb4002-hub&layout=donut&bg_color=130a2e&title_color=e83cc8&text_color=e9defc&border_color=3b1f7a&border_radius=12" />
+<img height="175" src="https://github-readme-stats.vercel.app/api?username=pedrohenriquesb4002-hub&show_icons=true&bg_color=130a2e&title_color=c25aae&icon_color=7f6ac0&text_color=e9defc&ring_color=c25aae&border_color=3b1f7a&border_radius=12" />
+<img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrohenriquesb4002-hub&layout=donut&bg_color=130a2e&title_color=c25aae&text_color=e9defc&border_color=3b1f7a&border_radius=12" />
 
 <br/>
 
-<img src="https://streak-stats.demolab.com?user=pedrohenriquesb4002-hub&background=130a2e&border=3b1f7a&ring=e83cc8&fire=ffb3e6&currStreakLabel=e83cc8&sideLabels=e9defc&currStreakNum=ffffff&sideNums=ffffff&dates=a78bfa&stroke=3b1f7a&borderRadius=12" />
+<img src="https://streak-stats.demolab.com?user=pedrohenriquesb4002-hub&background=130a2e&border=3b1f7a&ring=c25aae&fire=ffb3e6&currStreakLabel=c25aae&sideLabels=e9defc&currStreakNum=ffffff&sideNums=ffffff&dates=a78bfa&stroke=3b1f7a&borderRadius=12" />
 
 <br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=pedrohenriquesb4002-hub&bg_color=0b0620&color=e83cc8&line=8b5cf6&point=ffffff&area=true&area_color=8b5cf6&hide_border=true" width="95%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=pedrohenriquesb4002-hub&bg_color=0b0620&color=c25aae&line=7f6ac0&point=ffffff&area=true&area_color=7f6ac0&hide_border=true" width="95%" />
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:e83cc8,50:8b5cf6,100:0b0620&height=140&section=footer&text=Valeu%20por%20passar%20por%20aqui!&fontSize=22&fontColor=ffffff&animation=fadeIn&fontAlignY=68" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:c25aae,50:7f6ac0,100:0b0620&height=140&section=footer&text=Valeu%20por%20passar%20por%20aqui!&fontSize=22&fontColor=ffffff&animation=fadeIn&fontAlignY=68" width="100%"/>
