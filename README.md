@@ -2,7 +2,6 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1200&color=E100FF&center=true&vCenter=true&width=600&height=50&lines=Oieee%2C+seja+bem-vindo(a)!+%F0%9F%92%9C;Bora+codar+junto%3F+%F0%9F%9A%80;Aprendendo+C%23+e+Node.js+%E2%9C%A8" alt="Typing SVG" />
 
 </div>
 
